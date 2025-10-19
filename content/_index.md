@@ -33,29 +33,29 @@ title: ""
 
 <h3 class="section-title">🧰 Tools & Technologies</h3>
 <div class="icon-grid">
-  <img src="/icons/docker.svg" alt="docker" />
-  <img src="/icons/kubernetes.svg" alt="kubernetes" />
-  <img src="/icons/terraform.svg" alt="terraform" />
-  <img src="/icons/aws.svg" alt="aws" />
-  <img src="/icons/python.svg" alt="python" />
-  <img src="/icons/go.svg" alt="go" />
-  <img src="/icons/grafana.svg" alt="grafana" />
-  <img src="/icons/prometheus.svg" alt="prometheus" />
-  <img src="/icons/linux.svg" alt="linux" />
-  <img src="/icons/helm.svg" alt="helm" />
+  <img src="/icons/Docker.svg" alt="docker" />
+  <img src="/icons/Kubernetes.svg" alt="kubernetes" />
+  <img src="/icons/Terraform.svg" alt="terraform" />
+  <img src="/icons/AWS.svg" alt="aws" />
+  <img src="/icons/Python.svg" alt="python" />
+  <img src="/icons/Go.svg" alt="go" />
+  <img src="/icons/Grafana.svg" alt="grafana" />
+  <img src="/icons/Prometheus.svg" alt="prometheus" />
+  <img src="/icons/Linux.svg" alt="linux" />
+  <img src="/icons/Helm.svg" alt="helm" />
   <img src="/icons/argocd.svg" alt="argocd" />
   <img src="/icons/istio.svg" alt="istio" />
   <img src="/icons/linkerd.svg" alt="linkerd" />
-  <img src="/icons/nginx.svg" alt="nginx" />
-  <img src="/icons/redis.svg" alt="redis" />
-  <img src="/icons/postgres.svg" alt="postgresql" />
+  <img src="/icons/NGINX.svg" alt="nginx" />
+  <img src="/icons/Redis.svg" alt="redis" />
+  <img src="/icons/Postgres.svg" alt="postgresql" />
   <img src="/icons/githubactions.svg" alt="github actions" />
   <img src="/icons/cloudflare.svg" alt="cloudflare" />
   <img src="/icons/datadog.svg" alt="datadog" />
-  <img src="/icons/opentelemetry.svg" alt="opentelemetry" />
+  <img src="/icons/OpenTelemetry.svg" alt="opentelemetry" />
   <img src="/icons/kafka.svg" alt="apache kafka" />
   <img src="/icons/langchain.svg" alt="langchain" />
-  <img src="/icons/streamlit.svg" alt="streamlit" />
+  <img src="/icons/Streamlit.svg" alt="streamlit" />
   <img src="/icons/vanta.svg" alt="vanta" />
 </div>
 
