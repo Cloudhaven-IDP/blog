@@ -1,7 +1,7 @@
 ---
 title: "Building Cloudhaven — The Vision🕵🏻‍♂️."
 date: 2025-10-12
-draft: true
+draft: false
 tags: ["cloudhaven", "devops", "kubernetes", "setup"]
 summary: "Kicking off the Cloudhaven project — why I’m building it, how I’m setting it up, and what went right (and wrong) this week."
 ---
