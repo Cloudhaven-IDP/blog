@@ -1,0 +1,65 @@
+baseURL = "https://afolabi.cloudhaven.work"
+title = "Afolabi — Build Log & Bragsite"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 20
+
+# recommended
+enableRobotsTXT = true
+buildDrafts   = false
+buildFuture   = false
+buildExpired  = false
+
+[params]
+  defaultTheme      = "auto"
+  ShowReadingTime   = true
+  ShowPostNavLinks  = true
+  # Optional: if you only want tags discoverable via Search and
+  # not on individual post pages, uncomment the next line to hide them.
+  # hidePostTags = true  # (custom CSS needed; I can add it if you want)
+
+  [params.profileMode]
+    enabled     = true
+    title       = "Hi, I'm Afolabi 👋"
+    subtitle    = "AI/DevOps/SRE • Building Cloudhaven "
+    imageUrl    = "img/image0.jpg"
+    imageTitle  = "Afolabi headshot"
+    imageWidth  = 300
+    imageHeight = 300
+
+  [[params.profileMode.buttons]]
+    name = "Resume"
+    url  = "/resume/"
+
+  [[params.profileMode.buttons]]
+    name = "Blog"
+    url  = "/posts/"
+
+  [[params.socialIcons]]
+    name = "github"
+    url  = "https://github.com/Cloudhaven-IDP"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url  = "https://www.linkedin.com/in/afolabifaj/"
+
+# Only menu items we want
+[[menu.main]]
+  name = "Blog"
+  url  = "/posts/"
+  weight = 5
+
+[[menu.main]]
+  name = "Search"
+  url  = "/search/"
+  weight = 10
+
+# Keep taxonomies so posts can have tags (no separate menu link)
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Needed for PaperMod search (builds /index.json)
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
