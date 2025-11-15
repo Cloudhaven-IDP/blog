@@ -110,4 +110,4 @@ Stay tuned — Cloudhaven’s local edition is just getting started.
 ---
 
 🧠 *Curious about Talos or my cluster layout? I’ve open-sourced part of my setup here:*  
-[https://github.com/basitlabs/cloudhaven](https://github.com/basitlabs/cloudhaven)
+[https://github.com//cloudhaven/infrastructure](https://github.com/Cloudhaven-IDP/infrastructure/)
