@@ -6,8 +6,6 @@ tags: ["cloudhaven", "kubernetes", "aws", "security"]
 summary: "How I wired secure AWS access into my mostly-local Kubernetes platform by exposing a custom OIDC provider and enabling IRSA on bare-metal."
 ---
 
-# Bringing IRSA to a Raspberry Pi Kubernetes Cluster  
-### Secure AWS Access for a Mostly-Local Kubernetes Platform
 
 Cloudhaven runs almost entirely inside my home:  
 k3s on a Raspberry Pi cluster, my own networking, local services, my own observability stack — everything.
