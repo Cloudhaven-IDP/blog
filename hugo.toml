@@ -26,10 +26,10 @@ buildExpired  = false
 
   [params.profileMode]
     enabled     = false
-    title       = "Hi, I'm Afolabi 👋"
+    title       = "Hi, I'm Bazit 👋"
     subtitle    = "AI/DevOps/SRE • Building Cloudhaven"
     imageUrl    = "img/image0.jpg"
-    imageTitle  = "Afolabi headshot"
+    imageTitle  = "Bazit headshot"
     imageWidth  = 300
     imageHeight = 300
 
